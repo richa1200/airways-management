@@ -1,1 +1,1 @@
-# lufthansa-management
+# airways-management
